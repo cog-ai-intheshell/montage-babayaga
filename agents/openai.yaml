@@ -1,0 +1,4 @@
+interface:
+  display_name: "Montage Babayaga"
+  short_description: "Montage vertical sobre, animé et rythmé"
+  default_prompt: "Utilise $montage-babayaga pour monter cette vidéo avec ma DA : cherche les B-roll dans B-roll Movies, B-roll et B-roll Augustin, télécharge sur Internet ceux qui manquent, range tous les plans retenus dans B-roll et ajoute des animations utiles et un son soigné."

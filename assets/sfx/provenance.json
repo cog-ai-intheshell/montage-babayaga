@@ -1,0 +1,15 @@
+{
+  "source": "montage_30/assets/bruitages.wav",
+  "sha256": "c69435ef4d4d3c50a376b512ceacfb778f53f97851dfec6bf040f68154164edd",
+  "samples": {
+    "tap.wav": [
+      14.72,
+      14.79
+    ],
+    "air.wav": [
+      2.26,
+      2.5
+    ]
+  },
+  "use": "Bruitages de la série Babayaga, à recaler sur les actions du nouveau montage."
+}

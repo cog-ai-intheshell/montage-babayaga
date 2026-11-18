@@ -1,0 +1,62 @@
+CONCEPT 30 — MOTION / DA / SOMEONE EXTENDED — CRÉDITS
+
+Attributions à conserver avec la publication. Les images sont recadrées, étalonnées et animées.
+
+Stamford Bridge 140823 — Ben Sutherland
+https://commons.wikimedia.org/wiki/File:Stamford_Bridge_140823.jpg
+CC BY 2.0 : https://creativecommons.org/licenses/by/2.0/
+Photo recadrée et animée par zoom.
+
+Yacht Eclipse — Frankkaribik
+https://commons.wikimedia.org/wiki/File:Yacht_Eclipse.jpg
+CC BY-SA 4.0 : https://creativecommons.org/licenses/by-sa/4.0/
+Photo recadrée, étalonnée et mise en scène dans une fenêtre arrondie.
+L’adaptation de cette photographie reste sous CC BY-SA 4.0.
+
+Roman Abramovich — portrait extrait de la maquette Figma fournie par le client
+https://www.figma.com/design/7Gtx6uikeQem63D8tgHHzs/Untitled?node-id=201-3651
+Image source « Intérieur d’avion restauré, sans texte 1 », recadrée et animée.
+
+Wooden Houses in a Winter Landscape — Serg Alesenko
+https://www.pexels.com/video/wooden-houses-in-a-winter-landscape-11272968/
+Pexels : https://www.pexels.com/license/
+Extrait de paysage dans les monts Khibiny, illustration de l’hiver dans le nord de la Russie.
+
+Winter Train Yard with Snow-Laden Tracks — Kaushalesh Vaishnav
+https://www.pexels.com/video/winter-train-yard-with-snow-laden-tracks-31023641/
+Pexels : https://www.pexels.com/license/
+Plan de trains-citernes présenté comme illustration et non comme archive de l’affaire de 1992.
+
+An oil refinery with many pipes and tanks — K (compte @kelly)
+https://www.pexels.com/video/an-oil-refinery-with-many-pipes-and-tanks-9339478/
+Pexels : https://www.pexels.com/license/
+Raffinerie d’illustration, non identifiée comme usine Sibneft.
+
+Vidéo principale et voix : concept 30.mp4 fourni par le client.
+Direction artistique : références locales du dossier DA.
+Sous-titres : Someone Extended Regular et Bold, fichiers du projet font-creation.
+Annotations discrètes : Inter SemiBold.
+Couleur principale : #5D71FC.
+Animations originales : cartes à contours lumineux, déplacements de caméra,
+zoom et dézoom, halos bleus, liaisons progressives, onde d’activation de parts,
+transfert de symboles vers le produit de la cession.
+Inspiration de mouvement : exemple.mov, fourni par le client ; aucun extrait
+vidéo, aucune musique ni aucun graphisme de cette référence n’est repris.
+Sous-titres : mot actif blanc #FFFFFF ; autres mots gris #A0A0A0.
+Orateur visible dans une fenêtre basse pendant les séquences explicatives.
+Les quantités de symboles, parts et pièces sont illustratives et non proportionnelles.
+
+Musique : « Le trésor » — Jérôme Rebotier, fichier fourni par le client.
+Extrait de 00:59.800 à 01:36.167, égalisé, automatisé et atténué sous la voix.
+Voix : canal gauche recentré, nettoyage, égalisation et compression légère.
+Effets sonores : fichier original montage_30/assets/bruitages.wav, conservé,
+remixé et réutilisé pour les transitions et les animations.
+
+Les autres éléments conservent leurs licences respectives.
+
+Révision document et lien bleu : document papier plein écran de la V2, tampon à 14,72 s, réduction entre 15,20 et 15,60 s, puis parcours relié Documents → Pétrole → Revente. Papier conservé comme première étape.
+Bande sonore reprise à l’identique de concept_30_motion_reference.mp4 (paquets AAC copiés sans réencodage). Versions précédentes conservées.
+
+Révision titres : suppression de la bordure claire des cartouches bleus. Dégradés, typographie et animations conservés. Bande sonore copiée sans réencodage depuis la version document et lien bleu.
+
+Version épurée : suppression des titres génériques et redondants, des bandeaux de chapitre et de toutes les notes en bas d’image. Les attributions sont conservées dans ce fichier séparé. Sous-titres, repères de schéma, animations et bande sonore conservés.

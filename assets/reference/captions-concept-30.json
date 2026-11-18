@@ -1,0 +1,1186 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.54,
+    "words": [
+      {
+        "word": "Cet",
+        "start": 0.0,
+        "end": 0.28,
+        "probability": 0.7215274721384048
+      },
+      {
+        "word": "homme",
+        "start": 0.28,
+        "end": 0.4,
+        "probability": 0.9923599362373352
+      },
+      {
+        "word": "est",
+        "start": 0.4,
+        "end": 0.54,
+        "probability": 0.9880099892616272
+      }
+    ]
+  },
+  {
+    "start": 0.54,
+    "end": 1.4,
+    "words": [
+      {
+        "word": "probablement",
+        "start": 0.54,
+        "end": 0.82,
+        "probability": 0.9628129005432129
+      },
+      {
+        "word": "l'un",
+        "start": 0.82,
+        "end": 1.0,
+        "probability": 0.9656866192817688
+      },
+      {
+        "word": "des",
+        "start": 1.0,
+        "end": 1.1,
+        "probability": 0.9969205856323242
+      },
+      {
+        "word": "milliardaires",
+        "start": 1.1,
+        "end": 1.4,
+        "probability": 0.9652328888575236
+      }
+    ]
+  },
+  {
+    "start": 1.4,
+    "end": 2.44,
+    "words": [
+      {
+        "word": "les",
+        "start": 1.4,
+        "end": 1.58,
+        "probability": 0.9532389044761658
+      },
+      {
+        "word": "plus",
+        "start": 1.58,
+        "end": 1.64,
+        "probability": 0.995637834072113
+      },
+      {
+        "word": "badass",
+        "start": 1.64,
+        "end": 1.9,
+        "probability": 0.8936591744422913
+      },
+      {
+        "word": "du",
+        "start": 1.9,
+        "end": 2.06,
+        "probability": 0.9919833540916443
+      },
+      {
+        "word": "monde.",
+        "start": 2.06,
+        "end": 2.3,
+        "probability": 0.9950024485588074
+      }
+    ]
+  },
+  {
+    "start": 2.5,
+    "end": 3.66,
+    "words": [
+      {
+        "word": "Il",
+        "start": 2.5,
+        "end": 2.5,
+        "probability": 0.9751039743423462
+      },
+      {
+        "word": "a",
+        "start": 2.5,
+        "end": 2.7,
+        "probability": 0.95396488904953
+      },
+      {
+        "word": "possédé",
+        "start": 2.7,
+        "end": 2.98,
+        "probability": 0.9720359444618225
+      },
+      {
+        "word": "Chelsea,",
+        "start": 2.98,
+        "end": 3.52,
+        "probability": 0.9659662246704102
+      }
+    ]
+  },
+  {
+    "start": 3.68,
+    "end": 4.1,
+    "words": [
+      {
+        "word": "des",
+        "start": 3.68,
+        "end": 3.82,
+        "probability": 0.9869850277900696
+      },
+      {
+        "word": "yachts",
+        "start": 3.82,
+        "end": 4.1,
+        "probability": 0.9727796614170074
+      }
+    ]
+  },
+  {
+    "start": 4.1,
+    "end": 5.08,
+    "words": [
+      {
+        "word": "de",
+        "start": 4.1,
+        "end": 4.2,
+        "probability": 0.9881517291069031
+      },
+      {
+        "word": "plus",
+        "start": 4.2,
+        "end": 4.34,
+        "probability": 0.9372692704200745
+      },
+      {
+        "word": "de",
+        "start": 4.34,
+        "end": 4.48,
+        "probability": 0.9950968623161316
+      },
+      {
+        "word": "100",
+        "start": 4.48,
+        "end": 4.64,
+        "probability": 0.9619911313056946
+      },
+      {
+        "word": "mètres",
+        "start": 4.64,
+        "end": 5.08,
+        "probability": 0.8481420874595642
+      }
+    ]
+  },
+  {
+    "start": 5.08,
+    "end": 5.54,
+    "words": [
+      {
+        "word": "et",
+        "start": 5.08,
+        "end": 5.2,
+        "probability": 0.8205103874206543
+      },
+      {
+        "word": "une",
+        "start": 5.2,
+        "end": 5.3,
+        "probability": 0.9880136251449585
+      },
+      {
+        "word": "fortune",
+        "start": 5.3,
+        "end": 5.54,
+        "probability": 0.5973816514015198
+      }
+    ]
+  },
+  {
+    "start": 5.54,
+    "end": 6.62,
+    "words": [
+      {
+        "word": "de",
+        "start": 5.54,
+        "end": 5.88,
+        "probability": 0.9899535775184631
+      },
+      {
+        "word": "plusieurs",
+        "start": 5.88,
+        "end": 6.1,
+        "probability": 0.98842853307724
+      },
+      {
+        "word": "milliards.",
+        "start": 6.1,
+        "end": 6.48,
+        "probability": 0.9932667016983032
+      }
+    ]
+  },
+  {
+    "start": 6.68,
+    "end": 7.06,
+    "words": [
+      {
+        "word": "Lui,",
+        "start": 6.68,
+        "end": 6.92,
+        "probability": 0.9652100801467896
+      },
+      {
+        "word": "c'est",
+        "start": 6.98,
+        "end": 7.06,
+        "probability": 0.985755980014801
+      }
+    ]
+  },
+  {
+    "start": 7.06,
+    "end": 8.1,
+    "words": [
+      {
+        "word": "Roman",
+        "start": 7.06,
+        "end": 7.3,
+        "probability": 0.9668075442314148
+      },
+      {
+        "word": "Abramovitch.",
+        "start": 7.3,
+        "end": 7.96,
+        "probability": 0.8489407896995544
+      }
+    ]
+  },
+  {
+    "start": 8.22,
+    "end": 9.18,
+    "words": [
+      {
+        "word": "Orphelin",
+        "start": 8.22,
+        "end": 8.54,
+        "probability": 0.9557123184204102
+      },
+      {
+        "word": "très",
+        "start": 8.54,
+        "end": 8.82,
+        "probability": 0.9664555191993713
+      },
+      {
+        "word": "jeune,",
+        "start": 8.82,
+        "end": 9.04,
+        "probability": 0.9983149766921997
+      }
+    ]
+  },
+  {
+    "start": 9.26,
+    "end": 9.76,
+    "words": [
+      {
+        "word": "il",
+        "start": 9.26,
+        "end": 9.34,
+        "probability": 0.9819621443748474
+      },
+      {
+        "word": "grandit",
+        "start": 9.34,
+        "end": 9.52,
+        "probability": 0.9497759342193604
+      },
+      {
+        "word": "dans",
+        "start": 9.52,
+        "end": 9.64,
+        "probability": 0.9965556859970093
+      },
+      {
+        "word": "l'une",
+        "start": 9.64,
+        "end": 9.76,
+        "probability": 0.9439699649810791
+      }
+    ]
+  },
+  {
+    "start": 9.76,
+    "end": 10.04,
+    "words": [
+      {
+        "word": "des",
+        "start": 9.76,
+        "end": 9.86,
+        "probability": 0.995751142501831
+      },
+      {
+        "word": "régions",
+        "start": 9.86,
+        "end": 10.04,
+        "probability": 0.9968601763248444
+      }
+    ]
+  },
+  {
+    "start": 10.04,
+    "end": 11.2,
+    "words": [
+      {
+        "word": "les",
+        "start": 10.04,
+        "end": 10.22,
+        "probability": 0.9569458961486816
+      },
+      {
+        "word": "plus",
+        "start": 10.22,
+        "end": 10.36,
+        "probability": 0.9963461756706238
+      },
+      {
+        "word": "froides",
+        "start": 10.36,
+        "end": 10.54,
+        "probability": 0.9848464131355286
+      },
+      {
+        "word": "de",
+        "start": 10.54,
+        "end": 10.76,
+        "probability": 0.9944478273391724
+      },
+      {
+        "word": "Russie.",
+        "start": 10.76,
+        "end": 11.1,
+        "probability": 0.9887095391750336
+      }
+    ]
+  },
+  {
+    "start": 11.2,
+    "end": 11.68,
+    "words": [
+      {
+        "word": "Mais",
+        "start": 11.2,
+        "end": 11.3,
+        "probability": 0.9919306635856628
+      },
+      {
+        "word": "à",
+        "start": 11.3,
+        "end": 11.46,
+        "probability": 0.9145198464393616
+      },
+      {
+        "word": "seulement",
+        "start": 11.46,
+        "end": 11.68,
+        "probability": 0.9728154540061951
+      }
+    ]
+  },
+  {
+    "start": 11.68,
+    "end": 12.5,
+    "words": [
+      {
+        "word": "25",
+        "start": 11.68,
+        "end": 12.0,
+        "probability": 0.9776291847229004
+      },
+      {
+        "word": "ans,",
+        "start": 12.0,
+        "end": 12.36,
+        "probability": 0.9927156567573547
+      }
+    ]
+  },
+  {
+    "start": 12.62,
+    "end": 13.02,
+    "words": [
+      {
+        "word": "son",
+        "start": 12.62,
+        "end": 12.66,
+        "probability": 0.9905614256858826
+      },
+      {
+        "word": "histoire",
+        "start": 12.66,
+        "end": 12.86,
+        "probability": 0.9975569248199463
+      },
+      {
+        "word": "prend",
+        "start": 12.86,
+        "end": 13.02,
+        "probability": 0.9754507541656494
+      }
+    ]
+  },
+  {
+    "start": 13.02,
+    "end": 14.16,
+    "words": [
+      {
+        "word": "un",
+        "start": 13.02,
+        "end": 13.16,
+        "probability": 0.9935270547866821
+      },
+      {
+        "word": "tournant",
+        "start": 13.16,
+        "end": 13.38,
+        "probability": 0.9838826954364777
+      },
+      {
+        "word": "complètement",
+        "start": 13.38,
+        "end": 13.9,
+        "probability": 0.9748932123184204
+      },
+      {
+        "word": "fou.",
+        "start": 13.9,
+        "end": 14.02,
+        "probability": 0.9976140260696411
+      }
+    ]
+  },
+  {
+    "start": 14.26,
+    "end": 15.38,
+    "words": [
+      {
+        "word": "Grâce",
+        "start": 14.26,
+        "end": 14.46,
+        "probability": 0.9838785529136658
+      },
+      {
+        "word": "à",
+        "start": 14.46,
+        "end": 14.56,
+        "probability": 0.9916715025901794
+      },
+      {
+        "word": "de",
+        "start": 14.56,
+        "end": 14.72,
+        "probability": 0.9925212264060974
+      },
+      {
+        "word": "faux",
+        "start": 14.72,
+        "end": 14.82,
+        "probability": 0.9833899140357971
+      },
+      {
+        "word": "documents,",
+        "start": 14.82,
+        "end": 15.24,
+        "probability": 0.9969689249992371
+      }
+    ]
+  },
+  {
+    "start": 15.52,
+    "end": 16.1,
+    "words": [
+      {
+        "word": "il",
+        "start": 15.52,
+        "end": 15.6,
+        "probability": 0.9902162551879883
+      },
+      {
+        "word": "aurait",
+        "start": 15.6,
+        "end": 15.78,
+        "probability": 0.9961146116256714
+      },
+      {
+        "word": "réussi",
+        "start": 15.78,
+        "end": 16.1,
+        "probability": 0.9939601421356201
+      }
+    ]
+  },
+  {
+    "start": 16.1,
+    "end": 16.78,
+    "words": [
+      {
+        "word": "à",
+        "start": 16.1,
+        "end": 16.18,
+        "probability": 0.9954758286476135
+      },
+      {
+        "word": "détourner",
+        "start": 16.18,
+        "end": 16.48,
+        "probability": 0.9926558136940002
+      },
+      {
+        "word": "un",
+        "start": 16.48,
+        "end": 16.66,
+        "probability": 0.9965454936027527
+      },
+      {
+        "word": "train",
+        "start": 16.66,
+        "end": 16.78,
+        "probability": 0.9936599135398865
+      }
+    ]
+  },
+  {
+    "start": 16.78,
+    "end": 17.72,
+    "words": [
+      {
+        "word": "rempli",
+        "start": 16.78,
+        "end": 17.08,
+        "probability": 0.9678970873355865
+      },
+      {
+        "word": "de",
+        "start": 17.08,
+        "end": 17.22,
+        "probability": 0.9958338737487793
+      },
+      {
+        "word": "pétrole.",
+        "start": 17.22,
+        "end": 17.58,
+        "probability": 0.9953240950902303
+      }
+    ]
+  },
+  {
+    "start": 17.74,
+    "end": 18.82,
+    "words": [
+      {
+        "word": "Pour",
+        "start": 17.74,
+        "end": 17.84,
+        "probability": 0.9949355721473694
+      },
+      {
+        "word": "le",
+        "start": 17.84,
+        "end": 18.0,
+        "probability": 0.9946039319038391
+      },
+      {
+        "word": "revendre",
+        "start": 18.0,
+        "end": 18.16,
+        "probability": 0.9922078847885132
+      },
+      {
+        "word": "plus",
+        "start": 18.16,
+        "end": 18.42,
+        "probability": 0.9839334487915039
+      },
+      {
+        "word": "cher,",
+        "start": 18.42,
+        "end": 18.68,
+        "probability": 0.9923338890075684
+      }
+    ]
+  },
+  {
+    "start": 18.98,
+    "end": 19.88,
+    "words": [
+      {
+        "word": "et",
+        "start": 18.98,
+        "end": 19.08,
+        "probability": 0.9533931612968445
+      },
+      {
+        "word": "quelques",
+        "start": 19.08,
+        "end": 19.22,
+        "probability": 0.9767331480979919
+      },
+      {
+        "word": "années",
+        "start": 19.22,
+        "end": 19.36,
+        "probability": 0.9970883727073669
+      },
+      {
+        "word": "plus",
+        "start": 19.36,
+        "end": 19.58,
+        "probability": 0.9986170530319214
+      },
+      {
+        "word": "tard,",
+        "start": 19.58,
+        "end": 19.76,
+        "probability": 0.9990505576133728
+      }
+    ]
+  },
+  {
+    "start": 19.88,
+    "end": 20.52,
+    "words": [
+      {
+        "word": "il",
+        "start": 19.88,
+        "end": 20.04,
+        "probability": 0.9779340624809265
+      },
+      {
+        "word": "réalise",
+        "start": 20.04,
+        "end": 20.28,
+        "probability": 0.9943605661392212
+      },
+      {
+        "word": "le",
+        "start": 20.28,
+        "end": 20.42,
+        "probability": 0.9917224049568176
+      },
+      {
+        "word": "coup",
+        "start": 20.42,
+        "end": 20.52,
+        "probability": 0.8416205644607544
+      }
+    ]
+  },
+  {
+    "start": 20.52,
+    "end": 21.58,
+    "words": [
+      {
+        "word": "qui",
+        "start": 20.52,
+        "end": 20.66,
+        "probability": 0.927329957485199
+      },
+      {
+        "word": "va",
+        "start": 20.66,
+        "end": 20.78,
+        "probability": 0.9464824795722961
+      },
+      {
+        "word": "le",
+        "start": 20.78,
+        "end": 20.9,
+        "probability": 0.993370532989502
+      },
+      {
+        "word": "rendre",
+        "start": 20.9,
+        "end": 21.0,
+        "probability": 0.9970412850379944
+      },
+      {
+        "word": "milliardaire.",
+        "start": 21.0,
+        "end": 21.5,
+        "probability": 0.997504194577535
+      }
+    ]
+  },
+  {
+    "start": 21.58,
+    "end": 22.2,
+    "words": [
+      {
+        "word": "Avec",
+        "start": 21.58,
+        "end": 21.76,
+        "probability": 0.9944748282432556
+      },
+      {
+        "word": "son",
+        "start": 21.76,
+        "end": 21.92,
+        "probability": 0.9985382556915283
+      },
+      {
+        "word": "associé",
+        "start": 21.92,
+        "end": 22.2,
+        "probability": 0.9698204696178436
+      }
+    ]
+  },
+  {
+    "start": 22.2,
+    "end": 23.3,
+    "words": [
+      {
+        "word": "Boris",
+        "start": 22.2,
+        "end": 22.52,
+        "probability": 0.8815710544586182
+      },
+      {
+        "word": "Berezovsky,",
+        "start": 22.52,
+        "end": 23.16,
+        "probability": 0.8888035118579865
+      }
+    ]
+  },
+  {
+    "start": 23.34,
+    "end": 24.64,
+    "words": [
+      {
+        "word": "il",
+        "start": 23.34,
+        "end": 23.5,
+        "probability": 0.9890409111976624
+      },
+      {
+        "word": "rachète",
+        "start": 23.5,
+        "end": 23.82,
+        "probability": 0.9941514134407043
+      },
+      {
+        "word": "Sibneft,",
+        "start": 23.82,
+        "end": 24.5,
+        "probability": 0.5973857715725899
+      }
+    ]
+  },
+  {
+    "start": 24.7,
+    "end": 25.26,
+    "words": [
+      {
+        "start": 24.7,
+        "end": 24.78,
+        "word": "un"
+      },
+      {
+        "start": 24.78,
+        "end": 24.88,
+        "word": "des"
+      },
+      {
+        "start": 24.88,
+        "end": 25.18,
+        "word": "géants"
+      },
+      {
+        "start": 25.18,
+        "end": 25.26,
+        "word": "russes"
+      }
+    ]
+  },
+  {
+    "start": 25.26,
+    "end": 25.900000000000002,
+    "words": [
+      {
+        "word": "du",
+        "start": 25.26,
+        "end": 25.38,
+        "probability": 0.9610307812690735
+      },
+      {
+        "word": "pétrole,",
+        "start": 25.38,
+        "end": 25.76,
+        "probability": 0.9988525112469991
+      }
+    ]
+  },
+  {
+    "start": 25.98,
+    "end": 26.24,
+    "words": [
+      {
+        "word": "pour",
+        "start": 25.98,
+        "end": 26.1,
+        "probability": 0.9935858845710754
+      },
+      {
+        "word": "seulement",
+        "start": 26.1,
+        "end": 26.24,
+        "probability": 0.9894919395446777
+      }
+    ]
+  },
+  {
+    "start": 26.24,
+    "end": 26.76,
+    "words": [
+      {
+        "word": "quelques",
+        "start": 26.24,
+        "end": 26.48,
+        "probability": 0.9925025701522827
+      },
+      {
+        "word": "centaines",
+        "start": 26.48,
+        "end": 26.76,
+        "probability": 0.9975574314594269
+      }
+    ]
+  },
+  {
+    "start": 26.76,
+    "end": 27.52,
+    "words": [
+      {
+        "word": "de",
+        "start": 26.76,
+        "end": 26.88,
+        "probability": 0.9951249957084656
+      },
+      {
+        "word": "millions",
+        "start": 26.88,
+        "end": 27.04,
+        "probability": 0.9955615997314453
+      },
+      {
+        "word": "d'euros,",
+        "start": 27.04,
+        "end": 27.4,
+        "probability": 0.9953351616859436
+      }
+    ]
+  },
+  {
+    "start": 27.52,
+    "end": 28.68,
+    "words": [
+      {
+        "word": "avant",
+        "start": 27.52,
+        "end": 27.7,
+        "probability": 0.9912611842155457
+      },
+      {
+        "word": "de",
+        "start": 27.7,
+        "end": 27.88,
+        "probability": 0.9981811046600342
+      },
+      {
+        "word": "revendre",
+        "start": 27.88,
+        "end": 28.04,
+        "probability": 0.9771235287189484
+      },
+      {
+        "word": "ses",
+        "start": 28.04,
+        "end": 28.26,
+        "probability": 0.9941903352737427
+      },
+      {
+        "word": "parts,",
+        "start": 28.26,
+        "end": 28.54,
+        "probability": 0.9715680480003357
+      }
+    ]
+  },
+  {
+    "start": 28.7,
+    "end": 29.4,
+    "words": [
+      {
+        "word": "quelques",
+        "start": 28.7,
+        "end": 28.86,
+        "probability": 0.9764743447303772
+      },
+      {
+        "word": "années",
+        "start": 28.86,
+        "end": 29.02,
+        "probability": 0.9982097148895264
+      },
+      {
+        "word": "plus",
+        "start": 29.02,
+        "end": 29.24,
+        "probability": 0.9986629486083984
+      },
+      {
+        "word": "tard.",
+        "start": 29.24,
+        "end": 29.4,
+        "probability": 0.9994556307792664
+      }
+    ]
+  },
+  {
+    "start": 29.4,
+    "end": 30.2,
+    "words": [
+      {
+        "word": "Pour",
+        "start": 29.4,
+        "end": 29.72,
+        "probability": 0.01657913811504841
+      },
+      {
+        "word": "plus",
+        "start": 29.72,
+        "end": 29.94,
+        "probability": 0.9721620082855225
+      },
+      {
+        "word": "de",
+        "start": 29.94,
+        "end": 30.2,
+        "probability": 0.9973368048667908
+      }
+    ]
+  },
+  {
+    "start": 30.2,
+    "end": 31.34,
+    "words": [
+      {
+        "word": "13",
+        "start": 30.2,
+        "end": 30.42,
+        "probability": 0.9569671154022217
+      },
+      {
+        "word": "milliards",
+        "start": 30.42,
+        "end": 30.74,
+        "probability": 0.9771429300308228
+      },
+      {
+        "word": "de",
+        "start": 30.74,
+        "end": 30.92,
+        "probability": 0.978287398815155
+      },
+      {
+        "word": "dollars.",
+        "start": 30.92,
+        "end": 31.2,
+        "probability": 0.9514511823654175
+      }
+    ]
+  },
+  {
+    "start": 31.36,
+    "end": 32.160000000000004,
+    "words": [
+      {
+        "word": "Et",
+        "start": 31.36,
+        "end": 31.42,
+        "probability": 0.913700520992279
+      },
+      {
+        "word": "c'est",
+        "start": 31.42,
+        "end": 31.54,
+        "probability": 0.9980555772781372
+      },
+      {
+        "word": "comme",
+        "start": 31.54,
+        "end": 31.72,
+        "probability": 0.9983460903167725
+      },
+      {
+        "word": "ça,",
+        "start": 31.72,
+        "end": 32.02,
+        "probability": 0.9866762757301331
+      }
+    ]
+  },
+  {
+    "start": 32.2,
+    "end": 33.18,
+    "words": [
+      {
+        "word": "qu'en",
+        "start": 32.2,
+        "end": 32.28,
+        "probability": 0.9669618606567383
+      },
+      {
+        "word": "seulement",
+        "start": 32.28,
+        "end": 32.42,
+        "probability": 0.9708310961723328
+      },
+      {
+        "word": "quelques",
+        "start": 32.42,
+        "end": 32.7,
+        "probability": 0.996282160282135
+      },
+      {
+        "word": "années,",
+        "start": 32.7,
+        "end": 33.04,
+        "probability": 0.9986534118652344
+      }
+    ]
+  },
+  {
+    "start": 33.22,
+    "end": 33.66,
+    "words": [
+      {
+        "word": "un",
+        "start": 33.22,
+        "end": 33.34,
+        "probability": 0.947525680065155
+      },
+      {
+        "word": "orphelin",
+        "start": 33.34,
+        "end": 33.66,
+        "probability": 0.9837199449539185
+      }
+    ]
+  },
+  {
+    "start": 33.66,
+    "end": 34.480000000000004,
+    "words": [
+      {
+        "word": "parti",
+        "start": 33.66,
+        "end": 33.94,
+        "probability": 0.9765805006027222
+      },
+      {
+        "word": "de",
+        "start": 33.94,
+        "end": 34.16,
+        "probability": 0.9990173578262329
+      },
+      {
+        "word": "rien,",
+        "start": 34.16,
+        "end": 34.34,
+        "probability": 0.99710613489151
+      }
+    ]
+  },
+  {
+    "start": 34.52,
+    "end": 34.86,
+    "words": [
+      {
+        "word": "est",
+        "start": 34.52,
+        "end": 34.66,
+        "probability": 0.9911330342292786
+      },
+      {
+        "word": "devenu",
+        "start": 34.66,
+        "end": 34.86,
+        "probability": 0.9959706664085388
+      }
+    ]
+  },
+  {
+    "start": 34.86,
+    "end": 35.22,
+    "words": [
+      {
+        "word": "l'un",
+        "start": 34.86,
+        "end": 35.0,
+        "probability": 0.9794100522994995
+      },
+      {
+        "word": "des",
+        "start": 35.0,
+        "end": 35.12,
+        "probability": 0.9981850981712341
+      },
+      {
+        "word": "hommes",
+        "start": 35.12,
+        "end": 35.22,
+        "probability": 0.9608855843544006
+      }
+    ]
+  },
+  {
+    "start": 35.22,
+    "end": 36.36666666666667,
+    "words": [
+      {
+        "word": "les",
+        "start": 35.22,
+        "end": 35.38,
+        "probability": 0.9592798948287964
+      },
+      {
+        "word": "plus",
+        "start": 35.38,
+        "end": 35.54,
+        "probability": 0.9984751343727112
+      },
+      {
+        "word": "puissants",
+        "start": 35.54,
+        "end": 35.86,
+        "probability": 0.993100663026174
+      },
+      {
+        "word": "de",
+        "start": 35.86,
+        "end": 36.04,
+        "probability": 0.9940729737281799
+      },
+      {
+        "word": "Russie.",
+        "start": 36.04,
+        "end": 36.28,
+        "probability": 0.9639541506767273
+      }
+    ]
+  }
+]

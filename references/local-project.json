@@ -1,0 +1,18 @@
+{
+  "workspace": "/Users/augustinmorieux/Desktop/Babayaga",
+  "approved_video": "montage_30_epure/exports/concept_30_epure.mp4",
+  "approved_build": "montage_30_epure/build_edit.py",
+  "inspiration_concept26": "montage/exports/concept_26_montage_final.mp4",
+  "motion_reference": "exemple.mov",
+  "DA": "DA",
+  "music": "musique/Le trésor.mp3",
+  "sound_library": "montage_30/assets/bruitages.wav",
+  "approved_audio": "montage_30_reference/work/final_mix.wav",
+  "recent_composition": {
+    "workspace": "/Users/augustinmorieux/Desktop/video-IA",
+    "approved_project": "montage_18_babayaga_v13_cartouches_couleur_pleine",
+    "approved_video": "montage_18_babayaga_v13_cartouches_couleur_pleine/exports/final.mp4",
+    "reference_sheet": "assets/reference/concept-18-cartouches-unis.jpg",
+    "usage": "Repère local facultatif : composition, mots fixes et cartouches unis. Ne pas recopier le sujet ni les médias."
+  }
+}

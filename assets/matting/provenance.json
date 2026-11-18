@@ -1,0 +1,7 @@
+{
+  "model": "RobustVideoMatting MobileNetV3 fp32 ONNX",
+  "source_url": "https://github.com/PeterL1n/RobustVideoMatting",
+  "license": "GPL-3.0",
+  "sha256": "88d4531297118f595bf2fd60f6f566aec2e559393802d1f436c380f0cbbd2828",
+  "onnxruntime_version": "1.25.1"
+}
